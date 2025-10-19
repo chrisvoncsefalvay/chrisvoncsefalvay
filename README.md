@@ -6,9 +6,9 @@ I'm Chris von Csefalvay, a data scientist and computational epidemiologist curre
 
 I'm a computational epidemiologist and data scientist working at the intersection of AI/ML, computational dynamics and public health. I am the author of [Computational Modeling of Infectious Disease](https://computationalinfectiousdisease.com), a richly illustrated compendium on modern computational epidemiology, as well as [a growing body of research](papers).
 
-I attended the University  of Oxford for my undergraduate studies, graduating with a distinction (1st class), and returned there for my graduate studies. I also hold degrees from Cardiff and Robert Gordon University Aberdeen, and have studied at the University of Leiden under an Erasmus programme. Today, I am [board certified in public health](https://cph.nbphe.org/employer_letter/19626), a Fellow of the [Royal Society for Public Health](https://www.rsph.org.uk/) and a member of several other learned societies.
+I attended the University  of Oxford for my undergraduate studies, graduating with a distinction (1st class), and returned there for my graduate studies. I also hold degrees from Cardiff and Robert Gordon University Aberdeen, and have studied at the University of Leiden under an Erasmus programme. Today, I am [board certified in public health](https://cph.nbphe.org/employer_letter/19626), a Fellow of the [Royal Society for Public Health](https://www.rsph.org.uk/), a Senior Member of IEEE and a member of several other learned societies.
 
-I am currently a Practice Director for Biomedical AI/ML for [HCLTech](https://www.hcltech.com/), where I advise the world's leading life sciences, medical devices and pharma companies on how to leverage AI/ML to improve their products and serve their customers better. I am also a visiting thesis supervisor for students on the data science track of the mathematics programme at the [Budapest University of Technology and Economics](https://www.bme.hu/?language=en).
+I am currently a Principal at [HCLTech](https://www.hcltech.com/), where I advise the world's leading life sciences, medical devices and pharma companies on how to leverage AI/ML to improve their products and serve their customers better. I am also a visiting thesis supervisor for students on the data science track of the mathematics programme at the [Budapest University of Technology and Economics](https://www.bme.hu/?language=en).
 
 As part of my service to the profession, I've been a reviewer for [JOSS](https://joss.theoj.org/papers/reviewed_by/@chrisvoncsefalvay), [Frontiers in Immunology](https://loop.frontiersin.org/people/1398311/editorial) and [Frontiers in Medicine](https://loop.frontiersin.org/people/1398311/editorial). Between 2022 and 2023, I served Virginia as a member of the Medical Reserve Corps, and currently serve in both the Rocky Mountain MRC of Denver and Colorado's radiation response MRC. I was also part of the [COVID-19 Healthcare Coalition](https://c19hcc.org/) and the [Covid Tracking Project](https://covidtracking.com/thank-you#chris-von-csefalvay). 
 
@@ -16,6 +16,7 @@ You can find a [list of my publications here](papers). My work on COVID-19 has b
 
 ## Key research interests
 
+* **AI/ML**: agentic AI ecosystems, verifiable traces, emergence, zk interactions in agents, simulation agents and hybrid simulact networks
 * **Computational epidemiology**: agent-based modelling, disease-avoidant behaviours, epidemics over dynamic networks, geospatial computational epidemiology -- all primarily in the context of infectious diseases
 * **Pharmacovigilance**: VAERS, passive reporting, text mining of large complex report sets using LLMs
 * **Computational dynamics**: computational dynamics of complex systems, computational dynamics of infectious diseases, computational dynamics of social systems
